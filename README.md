@@ -5,15 +5,15 @@ POS REST API using node.js
 
 ### Download NodeJS
 
-This site node.js official [Download NodeJS](https://nodejs.org/en/).
+This site Node.js official website [Download NodeJS](https://nodejs.org/en/).
 
 ### Download Mongo DB
 
-This site node.js official [Download MongoDB](https://www.mongodb.com/try/download/community).
+This site MongoDB official website [Download MongoDB](https://www.mongodb.com/try/download/community).
 
 ### Download Postman to Test API
 
-This site node.js official [Download Postman](https://www.postman.com/downloads/).
+This site Postman official website [Download Postman](https://www.postman.com/downloads/).
 
   ### Install all dependencies listed in a package.json file
   <code>
